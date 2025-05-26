@@ -15,7 +15,7 @@
 
 ## Deliverables  
 📁 **Code:** Modular Python implementation (`core/algorithms/` for Dijkstra, A*, MST, etc.).  
-📄 **Technical Report:** Complexity analysis, design decisions, and performance evaluations.  
+📄 **Theoretical Report:** Complexity analysis, design decisions, and performance evaluations for (Greedy Search).  
 🎥 **Demo:** Interactive scenarios showcasing algorithm efficacy.  
 
 ## Project Structure  
